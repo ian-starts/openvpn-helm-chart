@@ -17,6 +17,5 @@ keywords:
 - encryption
 home: https://openvpn.net/index.php/open-source.html
 sources:
-- https://github.com/jfelten/openvpn-docker
+- https://github.com/ian-starts/openvpn-docker
 - https://github.com/ian-starts/openvpn-helm-chart
-- https://github.com/jfelten/helm-charts
